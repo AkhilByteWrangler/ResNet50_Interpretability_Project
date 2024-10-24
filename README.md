@@ -13,7 +13,7 @@ This project explores the inner workings of a **ResNet50** deep learning model w
 ## 📂 Repository Structure
 The repository is structured as follows:
 - `Explainable_AI_ResNet50_Cats_vs_Dogs.ipynb`: Main Jupyter notebook containing the analysis, code, and visualizations.
-- `README.md`: Detailed project overview, usage instructions, and findings.
+- `README.md`: Detailed project overview, and usage instructions
 
 ## 💻 Getting Started
 ### Prerequisites
