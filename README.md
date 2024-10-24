@@ -23,6 +23,6 @@ The repository is structured as follows:
 
 ### Installation
 
-Simply, click on the below button to open a Google Colab file for you to run:
+Simply :), click on the below button to open a Google Colab file for you to run:
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIPI-590-XAI/Duke-AI-XAI/blob/dev/templates/template.ipynb)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AkhilByteWrangler/ResNet50_Interpretability_Project/blob/main/Explainable_AI_ResNet50_Cats_vs_Dogs.ipynb)
